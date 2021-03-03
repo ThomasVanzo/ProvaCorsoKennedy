@@ -7,6 +7,9 @@ public class ClasseProva {
 		System.out.println("Ciao");
 	}
 	
+	private void test() {
+		System.out.println("Metodo Ciao");
+	}
 	
 	
 }
